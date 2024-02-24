@@ -20,6 +20,6 @@ To use this project, access the `example.ipynb` file to understand its implement
 ## Database Configuration
 Remember, for the database, you must have a pre-configured MySQL database. To configure our class to store data in a database, simply set it up in the `db_config.json` file.
 
-## Contributing
+## Feedback
 Feel free to use this class extensively, as you can never have too many logs, haha. If you have any criticism or suggestions for the class, I am open to new ideas.
 
