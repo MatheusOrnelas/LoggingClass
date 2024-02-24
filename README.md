@@ -11,7 +11,7 @@ To get started, follow these steps:
     - `pip install sqlalchemy`
     - `pip install pymysql`
     - `pip install openpyxl`
-    - Note: The `sqlalchemy` library is only necessary if you wish to save data to a database.
+    - Note: The `sqlalchemy` and `pymysql` librarys is only necessary if you wish to save data to a database.
 3. Now you are ready to use the Logging Class.
 
 ## Usage
