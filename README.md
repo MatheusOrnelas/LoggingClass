@@ -23,3 +23,8 @@ Remember, for the database, you must have a pre-configured MySQL database. To co
 ## Feedback
 Feel free to use this class extensively, as you can never have too many logs, haha. If you have any criticism or suggestions for the class, I am open to new ideas.
 
+## 📌 Version
+The version of project is 1.0.0.0.0
+
+## ✒️ Autor
+* **Desenvolvedor** - *Developer of application* - [Matheus de Ornelas Vasconcellos](https://github.com/MatheusOrnelas)
